@@ -1,0 +1,3 @@
+[submodule "Adafruit_FONA"]
+	path = Adafruit_FONA
+	url = git@github.com:circuitFlower/Adafruit_FONA.git
